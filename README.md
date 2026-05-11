@@ -70,4 +70,4 @@ README.md      -> project documentation
 ---
 
 ## Tableau Public
-[View Interactive Dashboard Here](Customer interaction channels showed minimal variation in churn rates, indicating similar retention performance across channels.)
+[View Interactive Dashboard Here](https://public.tableau.com/views/RetailCustomerChurnandEngagementDashboard/RetailCustomerChurnEngagementDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
