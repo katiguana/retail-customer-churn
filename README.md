@@ -56,8 +56,7 @@ Several Tableau calculated fields were created to support the dashboard analysis
 ```text
 data/          -> dataset used for analysis
 tableau/       -> Tableau workbook and dashboard
-images/        -> dashboard screenshots
-notebooks/     -> exploratory analysis notebook
+images/        -> dashboard screenshot
 README.md      -> project documentation
 ```
 
@@ -66,7 +65,7 @@ README.md      -> project documentation
 ## Dashboard Preview
 
 ### Dashboard Overview
-![Dashboard Screenshot](images/dashboard_overview.png)
+![Dashboard Screenshot](images/Dashboard_Screenshot.png)
 
 ---
 
